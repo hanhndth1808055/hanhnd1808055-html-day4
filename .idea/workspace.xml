@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f5929e1-cafb-47fd-ae0e-7dc5a8545cfe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/page/Lab1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/page/Session6/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/page/Session7/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/page/Session8/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page/Session5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/page/Session5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page/Lab1_2/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -30,33 +25,42 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="12" />
+          <entry key="html" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="12" />
+          <entry key="HTML" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="2989" />
+          <entry key="html" value="3021" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="2989" />
+          <entry key="HTML" value="3021" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/page/Lab1/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+            <state relative-caret-position="221">
+              <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/page/Lab1_2/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -91,6 +95,7 @@
         <option value="$PROJECT_DIR$/page/Session7/index.html" />
         <option value="$PROJECT_DIR$/page/Session8/index.html" />
         <option value="$PROJECT_DIR$/page/Lab1/index.html" />
+        <option value="$PROJECT_DIR$/page/Lab1_2/index.html" />
       </list>
     </option>
   </component>
@@ -124,6 +129,12 @@
               <item name="html241018_2" type="b2602c69:ProjectViewProjectNode" />
               <item name="html241018_2" type="462c0819:PsiDirectoryNode" />
               <item name="page" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="html241018_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="html241018_2" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="html241018_2" type="b2602c69:ProjectViewProjectNode" />
@@ -197,12 +208,12 @@
       <workItem from="1540388591221" duration="1032000" />
       <workItem from="1540395124930" duration="1988000" />
       <workItem from="1540462774954" duration="941000" />
-      <workItem from="1540482402203" duration="3107000" />
+      <workItem from="1540482402203" duration="3355000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7068000" />
+    <option name="totallyTimeSpent" value="7316000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1081" height="584" extended-state="6" />
@@ -305,8 +316,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/page/Lab1/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        <state relative-caret-position="221">
+          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/Lab1_2/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
         </state>
       </provider>
     </entry>
