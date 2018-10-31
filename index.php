@@ -1,1 +1,1 @@
-<?php header( 'Location: page/Lab2_Rose/index.html' );?>
+<?php header( 'Location: page/day2/my-Lab2.html' );?>
