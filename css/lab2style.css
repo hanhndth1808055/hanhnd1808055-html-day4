@@ -1,0 +1,46 @@
+* {
+    font-family: Tahoma;
+    font-size: 11px;
+}
+
+div {
+    margin: 10px;
+}
+
+h1 {
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 26px;
+}
+
+li {
+    font-family: Consolas;
+}
+
+#lab2 > .greeting {
+    margin-left: 25px;
+}
+
+.warningtext {
+    font-style: italic;
+    color: red;
+}
+
+.warningtext[title='funny'] {
+    font-style: italic;
+    text-decoration: underline;
+    color: green;
+}
+
+.importantwarningtext {
+    font-style: normal;
+    font-weight: bolder;
+}
+
+.main-content .name.special {
+    font-weight: bolder;
+}
+
+#lab2 .main-content .picture img {
+    width: 350px;
+}

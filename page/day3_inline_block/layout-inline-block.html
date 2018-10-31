@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Demo layout</title>
+    <style>
+        * {
+            margin: 5px;
+        }
+        /* Header */
+        .header {
+            border: 1px solid red;
+        }
+        .header .logo {
+            float: left;
+            width: 22%;
+        }
+        .header .logo img {
+            width: 75%;
+        }
+        .header .banner {
+            float: left;
+            width: 75%;
+        }
+        .header .banner img {
+            width: 100%;
+        }
+        /* Body*/
+        .body {
+            border: 1px solid purple;
+        }
+        .body .navigation {
+            border: 1px solid blue;
+            float: left;
+            width: 20%;
+        }
+        .body .main-content {
+            border: 1px solid orange;
+            float: left;
+            width: 75%;
+        }
+        .main-content .row {
+            border: 1px solid yellow;
+        }
+        .item {
+            border: 1px solid indianred;
+            float: left;
+            width: 30%;
+        }
+        .main-content .item-thumbnail img{
+            width: 100%;
+        }
+        .main-content .item-name {
+            text-align: center;
+            text-transform: uppercase;
+            color: darkgreen;
+            font-weight: bolder;
+        }
+        .main-content .item-price {
+            text-align: center;
+            text-decoration: darkgreen;
+            font-style: italic;
+        }
+        /*Footer*/
+        .footer {
+            border: 1px solid Green;
+            height: 70px;
+        }
+        .clear-both {
+            clear: both;
+        }
+    </style>
+</head>
+<body>
+<div class="header">
+    <div class="logo"><img src="https://assets.esp.bet/2018/01/13/103171220180022083/103180113440312333.png" alt="sprout-logo"></div>
+    <div class="banner"><img src="new-banner-h.jpg" alt="sprout-banner"></div>
+    <div class="clear-both"></div>
+</div>
+<div class="body">
+    <div class="navigation">
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Promotions</a></li>
+            <li><a href="#">Contact Us</a></li>
+        </ul>
+    </div>
+    <div class="main-content">
+        <div class="row">
+            <div class="item">
+                <div class="item-thumbnail"><img src="http://blog.myskin.com/wp-content/uploads/2015/01/Avocado.jpg" alt="item-avocado">
+                </div>
+                <div class="item-name">Avocado Booth 7</div>
+                <div class="item-price">60.000 VND/kg</div>
+                <div class="item-description"> The new Florida Avocado type to be the most nutritious compared to other avocado variety.</div>
+            </div>
+            <div class="item">
+                <div class="item-thumbnail"><img src="http://traicaysachonline.com/wp-content/uploads/2018/03/cam-xoan.jpg" alt="item-small-orange">
+                </div>
+                <div class="item-name">Small Orange</div>
+                <div class="item-price">60.000 VND/kg</div>
+                <div class="item-description"> Oranges are widely grown in warm climates
+                    worldwide, and the flavors of oranges vary from sweet to sour. The fruit is commonly peeled and eaten fresh, or squeezed for its juice. </div>
+            </div>
+            <div class="item">
+                <div class="item-thumbnail"><img src="http://media.bizwebmedia.net/Sites/99161/data/upload/2015/9/buoi_da_xanh_1.jpg" alt="item-pomelo">
+                </div>
+                <div class="item-name">Green Pomelo</div>
+                <div class="item-price">40.000 VND/kg</div>
+                <div class="item-description"> The fragrant vitamin C–packed fruit (it
+                    will make your kitchen smell amazing) is delicious in Asian dishes.
+                </div>
+            </div>
+            <div class="clear-both"></div>
+        </div>
+        <div class="row">
+            <div class="item">
+                <div class="item-thumbnail"><img src="http://www.itfnet.org/v1/wp-content/uploads/2016/05/extazy.png"
+                                                 alt="item-watermelon">
+                </div>
+                <div class="item-name">Long An Watermelon</div>
+                <div class="item-price">25.000 VND/kg</div>
+                <div class="item-description"> Long An Watermelon is a “Sugar Baby” type, mini watermelon hybrid,
+                    characterized by the presence of very few seeds.
+                </div>
+            </div>
+            <div class="item">
+                <div class="item-thumbnail"><img src="https://15healthbenefits.com/wp-content/uploads/2017/08/health-benefit-of-papaya-seeds-759x450.jpg" alt="item-papaya">
+                </div>
+                <div class="item-name">Papaya</div>
+                <div class="item-price">30.000 VND/kg</div>
+                <div class="item-description"> Papaya (Carica papaya) is a tropical fruit having commercial
+                    importance because of its high nutritive and medicinal value.
+                </div>
+            </div>
+            <div class="item">
+                <div class="item-thumbnail"><img src="http://blog.myskin.com/wp-content/uploads/2015/01/Avocado.jpg" alt="item-avocado">
+                </div>
+                <div class="item-name">Avocado Booth 7</div>
+                <div class="item-price">60.000 VND/kg</div>
+                <div class="item-description"> Long An Watermelon is a “Sugar Baby” type, mini watermelon hybrid,
+                    characterized by the presence of very few seeds.
+                </div>
+            </div>
+            <div class="clear-both"></div>
+        </div>
+        <div class="row">
+            <div class="item">
+                <div class="item-thumbnail"><img src="http://blog.myskin.com/wp-content/uploads/2015/01/Avocado.jpg" alt="item-avocado">
+                </div>
+                <div class="item-name">Avocado Booth 7</div>
+                <div class="item-price">60.000 VND/kg</div>
+            </div>
+            <div class="item">
+                <div class="item-thumbnail"><img src="http://blog.myskin.com/wp-content/uploads/2015/01/Avocado.jpg" alt="item-avocado">
+                </div>
+                <div class="item-name">Avocado Booth 7</div>
+                <div class="item-price">60.000 VND/kg</div>
+            </div>
+            <div class="item">
+                <div class="item-thumbnail"><img src="http://blog.myskin.com/wp-content/uploads/2015/01/Avocado.jpg" alt="item-avocado">
+                </div>
+                <div class="item-name">Avocado Booth 7</div>
+                <div class="item-price">60.000 VND/kg</div>
+            </div>
+            <div class="clear-both"></div>
+        </div>
+    </div>
+    <div class="clear-both"></div>
+</div>
+<div class="footer">Footer</div>
+</body>
+</html>
