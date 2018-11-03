@@ -4,8 +4,12 @@
 
 /* Header */
 .header {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
     border: 2px solid black;
     padding: 3% 10%;
+    background-color: #e9f1fe;
 }
 
 .logo {
@@ -77,6 +81,19 @@
 }
 .content-item .item-thumbnail img {
     width: 98%;
+}
+
+.scroll-up {
+    background-color: #e9f1fe;
+    border-radius: 4px;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 150px;
+    border: 3px solid black;
+}
+.scroll-up img{
+    width: 10%;
 }
 /*Footer*/
 .footer {
